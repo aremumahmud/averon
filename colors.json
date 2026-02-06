@@ -1,42 +1,42 @@
 {
   "primary": {
-    "50": "#fdf2f2",
-    "100": "#fae0e0",
-    "200": "#f5c0c0",
-    "300": "#ee8f8f",
-    "400": "#e55e5e",
-    "500": "#8e211b",
-    "600": "#7a1d18",
-    "700": "#661915",
-    "800": "#521512",
-    "900": "#3e100f"
+    "50": "#e6faf0",
+    "100": "#ccf5e1",
+    "200": "#99ebc3",
+    "300": "#66e1a5",
+    "400": "#33d787",
+    "500": "#01bf63",
+    "600": "#01a955",
+    "700": "#019347",
+    "800": "#017d39",
+    "900": "#01672b"
   },
   "secondary": {
-    "50": "#f5f7f0",
-    "100": "#ebefe1",
-    "200": "#d7dfc3",
-    "300": "#c3cfa5",
-    "400": "#afbf87",
-    "500": "#809f3b",
-    "600": "#6f8a33",
-    "700": "#5e752b",
-    "800": "#4d6023",
-    "900": "#3c4b1b"
+    "50": "#e6f2f6",
+    "100": "#cce5ed",
+    "200": "#99cbdb",
+    "300": "#66b1c9",
+    "400": "#3397b7",
+    "500": "#0f7293",
+    "600": "#0d6684",
+    "700": "#0b5a75",
+    "800": "#094e66",
+    "900": "#074257"
   },
   "accent": {
-    "primary": "#8e211b",
-    "secondary": "#809f3b",
-    "light": "#f6c780",
-    "medium": "#8e3171",
-    "warm": "#f6c780",
-    "slate": "#809f3b",
-    "slateLight": "#d7dfc3",
-    "purple": "#8e3171",
-    "pink": "#8e3171",
-    "red": "#8e211b",
-    "green": "#809f3b",
-    "teal": "#809f3b",
-    "cream": "#f6c780"
+    "primary": "#01bf63",
+    "secondary": "#0f7293",
+    "light": "#e6faf0",
+    "medium": "#66b1c9",
+    "warm": "#ccf5e1",
+    "slate": "#0f7293",
+    "slateLight": "#cce5ed",
+    "purple": "#3397b7",
+    "pink": "#66b1c9",
+    "red": "#dc3545",
+    "green": "#01bf63",
+    "teal": "#0f7293",
+    "cream": "#e6faf0"
   },
   "neutral": {
     "white": "#ffffff",
@@ -58,16 +58,16 @@
     "primary": "#ffffff",
     "secondary": "#fafafa",
     "tertiary": "#f5f3f9",
-    "dark": "#8e211b",
+    "dark": "#01bf63",
     "lavender": "#f0edf6",
     "rose": "#fdf5f7",
     "blush": "#fdf8f6",
     "gradient": {
-      "hero": "linear-gradient(135deg, #8e211b 0%, #7a1d18 50%, #661915 100%)",
-      "heroLight": "linear-gradient(135deg, #fdf2f2 0%, #ffffff 100%)",
-      "card": "linear-gradient(135deg, #ffffff 0%, #fdf2f2 100%)",
-      "overlay": "rgba(142, 33, 27, 0.08)",
-      "accent": "linear-gradient(135deg, #8e211b 0%, #7a1d18 100%)",
+      "hero": "linear-gradient(135deg, #01bf63 0%, #01a955 50%, #019347 100%)",
+      "heroLight": "linear-gradient(135deg, #e6faf0 0%, #ffffff 100%)",
+      "card": "linear-gradient(135deg, #ffffff 0%, #e6faf0 100%)",
+      "overlay": "rgba(1, 191, 99, 0.08)",
+      "accent": "linear-gradient(135deg, #01bf63 0%, #01a955 100%)",
       "rose": "linear-gradient(135deg, #fdf5f7 0%, #f2e4e8 100%)",
       "lavender": "linear-gradient(135deg, #f0edf6 0%, #e8e4f2 100%)"
     }
@@ -84,27 +84,27 @@
     "light": "#eeeeee",
     "medium": "#e0e0e0",
     "dark": "#bdbdbd",
-    "primary": "#8e211b",
-    "secondary": "#809f3b",
+    "primary": "#01bf63",
+    "secondary": "#0f7293",
     "warm": "#f5ede6"
   },
   "status": {
-    "success": "#28a745",
+    "success": "#01bf63",
     "warning": "#d9a088",
     "error": "#dc3545",
-    "info": "#809f3b"
+    "info": "#0f7293"
   },
   "interactive": {
     "primary": {
-      "default": "#8e211b",
-      "hover": "#7a1d18",
-      "active": "#661915",
+      "default": "#01bf63",
+      "hover": "#01a955",
+      "active": "#019347",
       "disabled": "#9e9e9e"
     },
     "secondary": {
-      "default": "#809f3b",
-      "hover": "#6f8a33",
-      "active": "#5e752b",
+      "default": "#0f7293",
+      "hover": "#0d6684",
+      "active": "#0b5a75",
       "disabled": "#e0e0e0"
     },
     "accent": {
@@ -145,19 +145,19 @@
         "primary": "#1a1b1c",
         "secondary": "#3d4a5a"
       },
-      "accent": "#8e211b"
+      "accent": "#01bf63"
     },
     "dark": {
       "name": "Dark Theme",
       "background": {
-        "primary": "#8e211b",
-        "secondary": "#661915"
+        "primary": "#01bf63",
+        "secondary": "#019347"
       },
       "text": {
         "primary": "#ffffff",
-        "secondary": "#e8e4f2"
+        "secondary": "#e6faf0"
       },
-      "accent": "#8e211b"
+      "accent": "#01bf63"
     },
     "plum": {
       "name": "Plum Theme",
@@ -169,7 +169,7 @@
         "primary": "#1a1b1c",
         "secondary": "#3d4a5a"
       },
-      "accent": "#8e211b"
+      "accent": "#01bf63"
     },
     "rose": {
       "name": "Rose Theme",
@@ -181,10 +181,10 @@
         "primary": "#1a1b1c",
         "secondary": "#3d4a5a"
       },
-      "accent": "#8e211b"
+      "accent": "#01bf63"
     },
     "default": {
-      "name": "Plum Home Health Care Theme",
+      "name": "Averon Healthcare Theme",
       "background": {
         "primary": "#ffffff",
         "secondary": "#fafafa"
@@ -193,7 +193,7 @@
         "primary": "#1a1b1c",
         "secondary": "#3d4a5a"
       },
-      "accent": "#8e211b"
+      "accent": "#01bf63"
     }
   }
 }
