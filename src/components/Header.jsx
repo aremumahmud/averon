@@ -139,7 +139,7 @@ function Header() {
             </svg>
           </a>
           <a 
-            href="https://www.instagram.com/cyrilliahomehealthcare?igsh=MWtjNW5jdzV5Y3ZucA==" 
+            href="/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="social-link"
