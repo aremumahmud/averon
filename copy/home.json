@@ -1,0 +1,550 @@
+{
+  "images": {
+    "logo":"https://res.cloudinary.com/df3anqibv/image/upload/v1770399921/Averon_Logo-removebg-preview_pibaxb.png",
+    "hero": {
+      "rotatingImages": [
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790808_nopxnn.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1747919320/pexels-olly-3768131_lqsuol.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917955/pexels-yaroslav-shuraev-8088910_phrxs8.jpg"
+
+      ],
+      "decor": "/assets/download.svg"
+    },
+    "about": {
+      "main": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651526/istockphoto-2197953344-612x612_aafwiv.jpg"
+    },
+    "services": {
+      "serviceImages": [
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647571/pexels-kampus-7477691_fbuzpo.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647660/pexels-jsme-mila-523821574-29372742_btuql4.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648020/pexels-mike-jones-8805864_tpce8a.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648078/pexels-kampus-7551646_mznizh.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648473/pexels-liliana-drew-9462344_crre4v.jpg"
+      ],
+      "verifiedIcon": "✓"
+    },
+    "testimonials": {
+      "profileImages": [
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759287743/pexels-divinetechygirl-1181690_s6affc.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1741494115/client2_att5pf.jpg",
+                "https://res.cloudinary.com/dvauarkh6/image/upload/v1744211718/pexels-cristian-rojas-8460370_jmjmux.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1741565451/pexels-hannah-nelson-390257-1065084_ayajb2.jpg",
+      
+       
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759287886/pexels-olly-834863_vnotgs.jpg"
+      ]
+    },
+    "blog": {
+      "articleImages": [
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757652518/pexels-olly-3791664_skfn2f.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651528/istockphoto-2047480956-612x612_ghepml.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651536/istockphoto-2185020253-612x612_ir8lka.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1753007261/pexels-kampus-7551617_2_rilfqn.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1753007241/pexels-olly-3768131_rjvx7r.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648020/pexels-mike-jones-8805864_tpce8a.jpg"
+      ],
+       "profileImages":[
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759290370/pexels-fernando-capetillo-94107723-34093130_agqll2.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759290462/pexels-edward-jenner-4033143_xxjb7e.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759291688/pexels-olly-3768911_sy5y7d.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759291553/pexels-md-ishak-rahman-2152426164-34070074_lixkw8.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759291434/pexels-olly-3823497_yktzjc.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759290819/doctor-hospital_1098-19685_bjxffs.avif",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759291027/pexels-cottonbro-7578806_ijdqqd.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1759291324/pexels-vanessa-garcia-6326051_lh8hva.jpg"
+      ]
+    },
+    "refer": {
+      "main": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648078/pexels-kampus-7551646_mznizh.jpg"
+    }
+  },
+  "header": {
+    "logo": {
+      "alt": "Averon Healthcare LLC - Professional Home Care in Denton County"
+    },
+    "navigation": {
+      "about": "About",
+      "services": "Services",
+      "careers": "Careers",
+      "blog": "Blog",
+      "testimonials": "Testimonials",
+      "referUs": "Refer Us"
+    },
+    "servicesDropdown": {
+      "personalCare": "Personal Care Services",
+      "companionCare": "Companion Care",
+      "respiteCare": "Respite Care",
+      "inFacilityCare": "In-Facility Care",
+      "specializedCare": "Specialized Care",
+      "endOfLifeCare": "End-of-Life Care"
+    },
+    "ctaButtons": {
+      "contact": "Contact",
+      "scheduleCare": "Schedule Care",
+      "contactUs": "Contact Us"
+    },
+    "mobileMenu": {
+      "toggleAriaLabel": "Toggle mobile menu"
+    }
+  },
+  "hero": {
+    "badge": "Free Care Assessment",
+    "mainHeading": "We provide care with heart, respect, and consistency.",
+    "mainDescription": "With Averon Healthcare LLC, families receive thoughtful, dependable care at home.",
+    "teamStats": "Serving Denton County",
+    "ctaButton": "Get Started Today",
+    "imageOverlay": {
+      "badges": {
+        "personalCare": "PERSONAL CARE",
+        "homeHealthCare": "HOME HEALTH CARE",
+        "houstonTX": "DENTON COUNTY"
+      }
+    },
+    "rotatingContent": [
+      {
+        "heading": "Serving Denton County",
+        "description": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco.",
+        "popularHeading": "Service Area",
+        "popularDescription": "Trusted care throughout Denton County."
+      },
+      {
+        "heading": "Trusted Caregivers.",
+        "description": "Reliable support delivered at home.",
+        "popularHeading": "Reliable Support",
+        "popularDescription": "Dependable caregivers you can trust."
+      },
+      {
+        "heading": "Personalized Support",
+        "description": "Care tailored to your needs and routine.",
+        "popularHeading": "Personalized Care",
+        "popularDescription": "Care that fits your unique needs."
+      },
+      {
+        "heading": "Care With Heart",
+        "description": "Consistent, respectful care you can trust.",
+        "popularHeading": "Compassionate Care",
+        "popularDescription": "Care delivered with heart and respect."
+      }
+    ]
+  },
+  "statistics": {
+    "familiesServed": {
+      "number": 300,
+      "label": "Families Served"
+    },
+    "certifiedCaregivers": {
+      "number": 35,
+      "label": "Certified Caregivers"
+    },
+    "citiesCovered": {
+      "number": 10,
+      "label": "Service Areas Covered"
+    },
+    "satisfactionRate": {
+      "number": 98,
+      "label": "Client Satisfaction Rate"
+    }
+  },
+  "about": {
+    "badge": "About Averon Healthcare LLC",
+    "title": "Caring From the Heart,",
+    "titleHighlight": "Right at Home",
+    "description": "Exceptional care isn't loud—it's consistent. At Averon Healthcare LLC, we deliver refined, dependable in-home care with heart, respect, and intention. Every detail is handled with care so families can feel confident and at ease. Proudly serving Denton County, including Little Elm, Denton, Aubrey, Celina, Prosper, and Frisco, we help clients remain comfortable, independent, and supported—right where they belong.",
+    "imageOverlay": {
+      "yearsExperience": "3+",
+      "yearsLabel": "Years of Experience"
+    }
+  },
+  "services": {
+    "badge": "Our Home Care Services",
+    "title": "Comprehensive Care Services",
+    "titleHighlight": "Tailored to Your Needs",
+    "subtitle": "At Averon Healthcare LLC, we provide dependable, compassionate home care designed around each client's individual needs. Our personalized approach supports comfort, safety, and independence in the place clients know best—home. With experienced caregivers focused on quality and respect, we build trusted relationships that give families confidence and peace of mind every day.",
+    "serviceCards": [
+      {
+        "title": "Personal Care Services",
+        "description": "Dignified assistance for daily living activities. We assist with bathing, dressing, grooming, mobility transfers, toileting, incontinence care, and medication reminders.",
+        "stats": {
+          "clients": "150+",
+          "satisfaction": "98%"
+        },
+        "learnMore": "Learn more about personal care services"
+      },
+      {
+        "title": "Companion Care",
+        "description": "Building connections and combating loneliness. Friendly conversations, meal preparation, light housekeeping, errands, and recreational activities.",
+        "stats": {
+          "clients": "120+",
+          "satisfaction": "97%"
+        },
+        "learnMore": "Learn more about companion care"
+      },
+      {
+        "title": "Respite Care",
+        "description": "Support for family caregivers when they need it most. Flexible scheduling, reliable caregivers, and peace of mind while you rest and recharge.",
+        "stats": {
+          "clients": "80+",
+          "satisfaction": "99%"
+        },
+        "learnMore": "Learn more about respite care"
+      },
+      {
+        "title": "In-Facility Care",
+        "description": "Supplemental care for residents in assisted living or skilled nursing facilities. One-on-one companionship, advocacy, and personalized attention.",
+        "stats": {
+          "clients": "60+",
+          "satisfaction": "96%"
+        },
+        "learnMore": "Learn more about in-facility care"
+      },
+      {
+        "title": "Specialized Care",
+        "description": "Expert support for chronic and cognitive conditions including Alzheimer's, dementia, Parkinson's disease, and post-surgery recovery care.",
+        "stats": {
+          "clients": "90+",
+          "satisfaction": "98%"
+        },
+        "learnMore": "Learn more about specialized care"
+      },
+      {
+        "title": "End-of-Life Care",
+        "description": "Comfort and compassion during life's final journey. Pain management, emotional support, and assistance with daily needs for peace and dignity.",
+        "stats": {
+          "clients": "40+",
+          "satisfaction": "100%"
+        },
+        "learnMore": "Learn more about end-of-life care"
+      }
+    ],
+    "learnMoreButton": "Learn More",
+    "ctaSection": {
+      "title": "Schedule Your Free In-Home Care Assessment Today!",
+      "description": "Discover how we can help your loved one live independently and comfortably at home. Call us at 800-385-5157 or email us at john.ovuera@averon.care to get started.",
+      "button": "Schedule a Free Assessment"
+    }
+  },
+  "trust": {
+    "title": "Why Dallas Families Trust <br> Averon Healthcare LLC",
+    "trustPoints": [
+      {
+        "title": "Certified Home Care Professionals",
+        "description": "Professional caregivers trained in comprehensive home care services who provide reliable, compassionate support with dignity and respect.",
+        "icon": "◯"
+      },
+      {
+        "title": "Personalized Care Plans",
+        "description": "Customized home care services tailored to each client's unique needs, preferences, and independence goals.",
+        "icon": "□"
+      },
+      {
+        "title": "Local Service Excellence",
+        "description": "Dedicated to serving Denton, TX with reliable, consistent home care services.",
+        "icon": "◐"
+      },
+      {
+        "title": "Compassionate Professional Care",
+        "description": "Committed to enhancing quality of life through professional home care services with genuine care and understanding.",
+        "icon": "◆"
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Client Testimonials",
+    "title": "What Families Say",
+    "subtitle": "Read stories from families who have experienced the Averon Healthcare LLC difference.",
+    "clientFeedbackLabel": "Client Feedback",
+    "testimonials": [
+      {
+        "feedback": "Averon Healthcare has been incredible with my mom who has dementia. The caregiver is patient, calm, and knows how to redirect her when she's confused. It's made a huge difference for our family.",
+        "name": "Maria L.",
+        "location": "Little Elm, TX"
+      },
+      {
+        "feedback": "After my dad's stroke, we needed reliable help at home. Averon provided consistent care and support that helped him feel safe and regain confidence with daily routines.",
+        "name": "James R.",
+        "location": "Denton, TX"
+      },
+      {
+        "feedback": "My father has mobility issues and needs help with personal care. Averon's caregivers are respectful, professional, and treat him with real dignity.",
+        "name": "Angela P.",
+        "location": "Frisco, TX"
+      },
+      {
+        "feedback": "We use Averon for respite care while caring for my wife, who has early Alzheimer's. Knowing she's in good hands gives me the break I need without worry.",
+        "name": "Robert T.",
+        "location": "Prosper, TX"
+      },
+      {
+        "feedback": "Averon Healthcare has been amazing with my husband who has Parkinson's. The caregiver is attentive, patient, and truly understands his daily needs. Their consistency has brought stability and comfort to our home..",
+        "name": "Linda M.",
+        "location": "Aubrey, TX"
+      },
+      {
+        "feedback": "We hired Averon Healthcare to help care for my grandmother who has advanced arthritis and needs daily assistance. The caregivers are gentle, reliable, and treat her with so much respect. We couldn't be happier with the care.",
+        "name": "Tina K.",
+        "location": "Frisco, TX"
+      }
+    ],
+    "carouselControls": {
+      "previousAriaLabel": "Previous testimonials",
+      "nextAriaLabel": "Next testimonials",
+      "goToSlideAriaLabel": "Go to slide"
+    }
+  },
+  "parallax": {
+    "text": "Want to spread the love?"
+  },
+  "refer": {
+    "badge": "Refer With Confidence",
+    "title": "Share the Gift of",
+    "titleHighlight": "Professional Home Care Services",
+    "description": "Know someone who could benefit from our home care services? Your referral helps us extend our compassionate care to more families in need.",
+    "reasonsTitle": "Why Refer to Averon Healthcare LLC?",
+    "reasons": [
+      {
+        "title": "Certified Home Care Services",
+        "description": "Our caregivers are thoroughly vetted, certified, and trained in comprehensive home care services to provide exceptional care."
+      },
+      {
+        "title": "Compassionate Professional Care",
+        "description": "We treat each client with dignity, respect, and genuine care, focusing on their unique home care needs."
+      },
+      {
+        "title": "Local Service Excellence",
+        "description": "We value your trust and confidence in our services. Ask about our referral appreciation program for families we serve."
+      }
+    ],
+    "ctaButton": "Refer Someone Today",
+    "imageOverlay": {
+      "mainText": "Making a difference",
+      "subText": "in families' lives across Denton County"
+    }
+  },
+  "blog": {
+    "badge": "Latest Articles",
+    "title": "Care Tips & Insights",
+    "subtitle": "Stay informed with our latest articles on home care, health tips, and family support strategies.",
+    "articles": [
+      {
+        "title": "Essential Tips for Caring for Seniors at Home",
+        "category": "Senior Care",
+        "date": "1/15/2024",
+        "readTime": "5 min read",
+        "excerpt": "Learn practical strategies to create a safe and comfortable environment for elderly family members receiving home care."
+      },
+      {
+        "title": "Understanding Alzheimer's: A Family Guide",
+        "category": "Health",
+        "date": "1/12/2024",
+        "readTime": "8 min read",
+        "excerpt": "Comprehensive information about Alzheimer's disease and how families can provide the best support for their loved ones."
+      },
+      {
+        "title": "The Benefits of Companion Care for Elderly Adults",
+        "category": "Companion Care",
+        "date": "1/10/2024",
+        "readTime": "6 min read",
+        "excerpt": "Discover how companion care services can improve quality of life and provide emotional support for seniors."
+      },
+      {
+        "title": "Respite Care: Supporting Family Caregivers",
+        "category": "Respite Care",
+        "date": "1/8/2024",
+        "readTime": "4 min read",
+        "excerpt": "Learn how respite care services can help prevent caregiver burnout and maintain family well-being."
+      },
+      {
+        "title": "Creating a Safe Home Environment for Seniors",
+        "category": "Safety",
+        "date": "1/5/2024",
+        "readTime": "7 min read",
+        "excerpt": "Essential home modifications and safety tips to prevent falls and accidents for elderly residents."
+      },
+      {
+        "title": "Nutrition and Meal Planning for Seniors",
+        "category": "Nutrition",
+        "date": "1/3/2024",
+        "readTime": "5 min read",
+        "excerpt": "Important dietary considerations and meal planning strategies to maintain health and nutrition in older adults."
+      }
+    ],
+    "readMoreButton": "Read more",
+    "viewAllButton": "View All Articles"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "Get in Touch",
+    "subtitle": "Ready to learn more about our home care services? Contact Averon Healthcare LLC today for a free consultation.",
+    "infoTitle": "Contact Information",
+    "contactInfo": [
+      {
+        "icon": "📧",
+        "title": "Email Us",
+        "details": "john.ovuera@averon.care",
+        "subtext": "We'll respond within 24 hours"
+      },
+      {
+        "icon": "📞",
+        "title": "Call Us",
+        "details": "800-385-5157",
+        "subtext": "8 AM to 5 PM, Monday to Friday; 9 AM to 5 PM Saturday & closed on Sunday"
+      },
+      {
+        "icon": "📍",
+        "title": "Service Area",
+        "details": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County",
+        "subtext": "Serving families across Denton County"
+      }
+    ],
+    "form": {
+      "fullNameLabel": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "serviceLabel": "Service of Interest",
+      "servicePlaceholder": "Select a service",
+      "serviceOptions": [
+        "Personal Care Services",
+        "Companion Care",
+        "Respite Care",
+        "In-Facility Care",
+        "Specialized Care",
+        "End-of-Life Care",
+        "Free Consultation"
+      ],
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us about your care needs...",
+      "submitButton": "Send Message"
+    }
+  },
+  "newsletter": {
+    "badge": "Stay Connected",
+    "title": "Subscribe to Our Newsletter",
+    "subtitle": "Stay updated with the latest home care tips, health information, and news from Averon Healthcare LLC.",
+    "formTitle": "Join Our Newsletter",
+    "formSubtitle": "Get valuable home care tips, health insights, and updates delivered to your inbox.",
+    "emailPlaceholder": "Enter your email address",
+    "subscribeButton": "Subscribe",
+    "successMessage": "✓ Thank you for subscribing! Check your email for confirmation.",
+    "privacyText": "We respect your privacy. Unsubscribe at any time."
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our home care services and how we can help your family.",
+    "questions": [
+      {
+        "question": "What home care services does Averon Healthcare LLC provide?",
+        "answer": "We offer comprehensive home care services including Personal Care Services, Companion Care, Respite Care, In-Facility Care, Specialized Care (Alzheimer's & Dementia, Parkinson's, Post-Surgery), and End-of-Life Care. All services are provided by certified, background-checked caregivers."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "We proudly serve Little Elm, Denton, Aubrey, Celina, Prosper, Frisco in Denton County, TX. Our goal is to bring professional home care services directly to your doorstep throughout Denton County."
+      },
+      {
+        "question": "Are your caregivers licensed and insured?",
+        "answer": "Yes, all our caregivers are certified in home care services, thoroughly background-checked, and bonded. Averon Healthcare LLC is fully licensed and insured to provide peace of mind for you and your family."
+      },
+      {
+        "question": "How do you create personalized care plans?",
+        "answer": "We start with a comprehensive assessment of your needs, preferences, and health conditions. Our team then develops a customized care plan that addresses specific requirements while maintaining dignity and independence."
+      },
+      {
+        "question": "What are your rates and do you accept insurance?",
+        "answer": "Our rates vary depending on the type and level of care needed. We accept long-term care insurance, private pay (using Visa/Mastercard/Discover), and work with families to explore all payment options to ensure you receive the care you need. Contact us for a free consultation to discuss pricing and payment options."
+      },
+      {
+        "question": "What are your business hours?",
+        "answer": "Our business hours are 8 AM to 5 PM, Monday to Friday; 9 AM to 5 PM Saturday & closed on Sunday."
+      },
+      {
+        "question": "Can I meet the caregiver before services begin?",
+        "answer": "Absolutely! We believe in the importance of compatibility and trust. We'll arrange for you to meet potential caregivers before services begin to ensure the best possible match for your family's needs."
+      },
+      {
+        "question": "What if I'm not satisfied with the caregiver?",
+        "answer": "Your satisfaction is our priority. If you're not completely satisfied with your caregiver, we'll work with you to address concerns and, if necessary, provide a replacement caregiver at no additional cost."
+      }
+    ],
+    "ctaSection": {
+      "title": "Still have questions?",
+      "description": "Our team is here to help. Contact us for a free consultation.",
+      "button": "Contact Us Today"
+    }
+  },
+  "footer": {
+    "companyName": "Averon Healthcare LLC",
+    "companyDescription": "Providing reliable care for your peace of mind in Denton County. Bringing compassionate caregivers to your doorstep with dignity, respect, and genuine human connection.",
+    "badges": [
+      "Licensed & Insured",
+      "Certified Caregivers",
+      "Personalized Care Plans"
+    ],
+    "sections": {
+      "ourServices": {
+        "title": "Our Home Care Services",
+        "links": [
+          "Personal Care Services",
+          "Companion Care",
+          "Respite Care",
+          "In-Facility Care",
+          "Specialized Care",
+          "End-of-Life Care"
+        ],
+        "ctaButton": "Schedule Assessment"
+      },
+      "quickLinks": {
+        "title": "Quick Links",
+        "links": [
+          "About Us",
+          "Our Services",
+          "Careers",
+          "Blog",
+          "Contact",
+          "Refer Us"
+        ]
+      },
+      "legal": {
+        "title": "Legal",
+        "links": [
+          "Privacy Policy",
+          "Terms & Conditions"
+        ]
+      },
+      "contactInfo": {
+        "title": "Contact Information",
+        "serviceArea": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County",
+        "address": "",
+        "phone": "800-385-5157",
+        "email": "john.ovuera@averon.care"
+      },
+      "businessHours": {
+        "title": "Business Hours",
+        "weekdays": {
+          "days": "Monday - Friday:",
+          "hours": "8:00am – 5:00pm"
+        },
+        "weekends": {
+          "days": "Saturday:",
+          "hours": "9:00am – 5:00pm"
+        },
+        "emergency": {
+          "days": "Sunday:",
+          "hours": "Closed"
+        }
+      }
+    },
+    "newsletter": {
+      "title": "Stay Connected with Averon Healthcare LLC",
+      "description": "Get home care tips, updates, and news delivered to your inbox.",
+      "emailPlaceholder": "Enter your email address",
+      "subscribeButton": "Subscribe"
+    },
+    "copyright": "© 2024 Averon Healthcare LLC. All rights reserved.",
+    "tagline": "Serving Denton County. Experts in providing compassionate in-home care. Offering services like personal care, companion care, respite care, and specialized memory care."
+  }
+}

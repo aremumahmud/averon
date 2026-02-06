@@ -1,0 +1,38 @@
+{
+  "images": {
+    "jobImages": {
+      "personal-care-assistant-full-time": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651528/istockphoto-2047480956-612x612_ghepml.jpg"
+    }
+  },
+  "hero": {
+    "badge": "Careers",
+    "title": "Join Our",
+    "titleHighlight": "Home Care Team",
+    "description": "Make a meaningful difference in people's lives while building a rewarding career in home care. We're looking for compassionate, dedicated caregivers to join our growing team.",
+    "stats": [
+      { "number": "Competitive", "label": "Pay" },
+      { "number": "Flexible", "label": "Scheduling" },
+      { "number": "Full Benefits", "label": "Package Available" }
+    ]
+  },
+  "jobListings": {
+    "title": "Current Openings",
+    "subtitle": "Join our team of dedicated caregivers making a difference in families' lives.",
+    "jobs": [
+      {
+        "id": 1,
+        "slug": "personal-care-assistant-full-time",
+        "title": "Home Care Assistant",
+        "type": "Full-time",
+        "location": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County, TX",
+        "salary": "Competitive Pay",
+        "posted": "Now Hiring",
+        "description": "Join our compassionate team and make a meaningful difference in the lives of our clients. We're seeking dedicated Home Care Assistants who are passionate about providing exceptional care to seniors and individuals with disabilities in the comfort of their own homes."
+      }
+    ],
+    "buttons": {
+      "viewDetails": "View Details",
+      "applyNow": "Apply Now"
+    }
+  }
+}

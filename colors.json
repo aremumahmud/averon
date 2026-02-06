@@ -1,0 +1,199 @@
+{
+  "primary": {
+    "50": "#fdf2f2",
+    "100": "#fae0e0",
+    "200": "#f5c0c0",
+    "300": "#ee8f8f",
+    "400": "#e55e5e",
+    "500": "#8e211b",
+    "600": "#7a1d18",
+    "700": "#661915",
+    "800": "#521512",
+    "900": "#3e100f"
+  },
+  "secondary": {
+    "50": "#f5f7f0",
+    "100": "#ebefe1",
+    "200": "#d7dfc3",
+    "300": "#c3cfa5",
+    "400": "#afbf87",
+    "500": "#809f3b",
+    "600": "#6f8a33",
+    "700": "#5e752b",
+    "800": "#4d6023",
+    "900": "#3c4b1b"
+  },
+  "accent": {
+    "primary": "#8e211b",
+    "secondary": "#809f3b",
+    "light": "#f6c780",
+    "medium": "#8e3171",
+    "warm": "#f6c780",
+    "slate": "#809f3b",
+    "slateLight": "#d7dfc3",
+    "purple": "#8e3171",
+    "pink": "#8e3171",
+    "red": "#8e211b",
+    "green": "#809f3b",
+    "teal": "#809f3b",
+    "cream": "#f6c780"
+  },
+  "neutral": {
+    "white": "#ffffff",
+    "black": "#000000",
+    "gray": {
+      "50": "#fafafa",
+      "100": "#f5f5f5",
+      "200": "#eeeeee",
+      "300": "#e0e0e0",
+      "400": "#bdbdbd",
+      "500": "#9e9e9e",
+      "600": "#757575",
+      "700": "#616161",
+      "800": "#424242",
+      "900": "#212121"
+    }
+  },
+  "background": {
+    "primary": "#ffffff",
+    "secondary": "#fafafa",
+    "tertiary": "#f5f3f9",
+    "dark": "#8e211b",
+    "lavender": "#f0edf6",
+    "rose": "#fdf5f7",
+    "blush": "#fdf8f6",
+    "gradient": {
+      "hero": "linear-gradient(135deg, #8e211b 0%, #7a1d18 50%, #661915 100%)",
+      "heroLight": "linear-gradient(135deg, #fdf2f2 0%, #ffffff 100%)",
+      "card": "linear-gradient(135deg, #ffffff 0%, #fdf2f2 100%)",
+      "overlay": "rgba(142, 33, 27, 0.08)",
+      "accent": "linear-gradient(135deg, #8e211b 0%, #7a1d18 100%)",
+      "rose": "linear-gradient(135deg, #fdf5f7 0%, #f2e4e8 100%)",
+      "lavender": "linear-gradient(135deg, #f0edf6 0%, #e8e4f2 100%)"
+    }
+  },
+  "text": {
+    "primary": "#1a1b1c",
+    "secondary": "#3d4a5a",
+    "muted": "#757575",
+    "light": "#ffffff",
+    "inverse": "#ffffff",
+    "rose": "#8b5a6b"
+  },
+  "border": {
+    "light": "#eeeeee",
+    "medium": "#e0e0e0",
+    "dark": "#bdbdbd",
+    "primary": "#8e211b",
+    "secondary": "#809f3b",
+    "warm": "#f5ede6"
+  },
+  "status": {
+    "success": "#28a745",
+    "warning": "#d9a088",
+    "error": "#dc3545",
+    "info": "#809f3b"
+  },
+  "interactive": {
+    "primary": {
+      "default": "#8e211b",
+      "hover": "#7a1d18",
+      "active": "#661915",
+      "disabled": "#9e9e9e"
+    },
+    "secondary": {
+      "default": "#809f3b",
+      "hover": "#6f8a33",
+      "active": "#5e752b",
+      "disabled": "#e0e0e0"
+    },
+    "accent": {
+      "default": "#d9a088",
+      "hover": "#c78b72",
+      "active": "#b0755c",
+      "disabled": "#9e9e9e"
+    }
+  },
+  "shadows": {
+    "sm": "0 1px 2px rgba(40, 54, 72, 0.04)",
+    "md": "0 4px 6px rgba(40, 54, 72, 0.06)",
+    "lg": "0 10px 15px rgba(40, 54, 72, 0.08)",
+    "xl": "0 20px 25px rgba(40, 54, 72, 0.1)",
+    "card": "0 10px 40px rgba(40, 54, 72, 0.08)",
+    "button": "0 2px 4px rgba(40, 54, 72, 0.08)",
+    "rose": "0 4px 12px rgba(212, 165, 176, 0.25)",
+    "lavender": "0 4px 12px rgba(232, 228, 242, 0.5)"
+  },
+  "opacity": {
+    "10": "0.1",
+    "15": "0.15",
+    "20": "0.2",
+    "25": "0.25",
+    "50": "0.5",
+    "75": "0.75",
+    "80": "0.8",
+    "90": "0.9"
+  },
+  "themes": {
+    "light": {
+      "name": "Light Theme",
+      "background": {
+        "primary": "#ffffff",
+        "secondary": "#fafafa"
+      },
+      "text": {
+        "primary": "#1a1b1c",
+        "secondary": "#3d4a5a"
+      },
+      "accent": "#8e211b"
+    },
+    "dark": {
+      "name": "Dark Theme",
+      "background": {
+        "primary": "#8e211b",
+        "secondary": "#661915"
+      },
+      "text": {
+        "primary": "#ffffff",
+        "secondary": "#e8e4f2"
+      },
+      "accent": "#8e211b"
+    },
+    "plum": {
+      "name": "Plum Theme",
+      "background": {
+        "primary": "#ffffff",
+        "secondary": "#f5f3f9"
+      },
+      "text": {
+        "primary": "#1a1b1c",
+        "secondary": "#3d4a5a"
+      },
+      "accent": "#8e211b"
+    },
+    "rose": {
+      "name": "Rose Theme",
+      "background": {
+        "primary": "#ffffff",
+        "secondary": "#fdf5f7"
+      },
+      "text": {
+        "primary": "#1a1b1c",
+        "secondary": "#3d4a5a"
+      },
+      "accent": "#8e211b"
+    },
+    "default": {
+      "name": "Plum Home Health Care Theme",
+      "background": {
+        "primary": "#ffffff",
+        "secondary": "#fafafa"
+      },
+      "text": {
+        "primary": "#1a1b1c",
+        "secondary": "#3d4a5a"
+      },
+      "accent": "#8e211b"
+    }
+  }
+}

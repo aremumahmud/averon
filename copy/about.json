@@ -1,0 +1,119 @@
+{
+  "images": {
+    "hero": {
+      "main": "/assets/pic.jpg",
+      "gallery": [
+        "/assets/p1.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651536/istockphoto-2185020253-612x612_ir8lka.jpg",
+        "https://res.cloudinary.com/dvauarkh6/image/upload/v1753007261/pexels-kampus-7551617_2_rilfqn.jpg"
+      ]
+    },
+    "founder": {
+      "profile": "/assets/test1.jpg"
+    }
+  },
+  "hero": {
+    "badge": "About Averon Healthcare LLC",
+    "title": "Care That's Personal.",
+    "titleHighlight": "Support That's Reliable",
+    "description": "Averon Healthcare LLC provides dependable, compassionate home care designed to support comfort, dignity, and independence. We partner with individuals and families to deliver personalized care that adapts to changing needs and daily routines. Our approach is centered on consistency, respect, and trust—ensuring clients feel supported, safe, and valued in the place they call home. Whether assisting with daily activities, recovery, or ongoing care needs, Averon Healthcare is committed to making home care feel seamless and reassuring.",
+    "stats": [
+      { "number": "300+", "label": "Families Served" },
+      { "number": "3+", "label": "Years of Experience" },
+      { "number": "35+", "label": "Certified Caregivers" },
+      { "number": "98%", "label": "Client Satisfaction Rate" }
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "statement": "Our mission is to provide compassionate, dependable home care that supports comfort, dignity, and independence. We are committed to delivering consistent, high-quality care while building trusted relationships with the individuals and families we serve.",
+    "values": ""
+  },
+  "story": {
+    "title": "Our Story",
+    "sections": [
+      {
+        "heading": "Averon Healthcare LLC was created with a simple belief:",
+        "points": [
+          "Quality home care should feel personal, dependable, and respectful.",
+          "We saw the need for care that goes beyond tasks—care built on consistency, trust, and genuine connection.",
+          "From day one, our focus has been on supporting individuals in the comfort of their homes while giving families confidence and peace of mind.",
+          "Today, Averon Healthcare continues to serve with heart, professionalism, and a commitment to making everyday care better."
+        ]
+      },
+      {
+        "heading": "Rooted in Denton County, Averon Healthcare LLC is proud to serve our local communities:",
+        "points": [
+          "With integrity, compassion, and professionalism.",
+          "Our team is driven by a genuine commitment to making daily life safer, easier, and more comfortable for those we care for.",
+          "Our story continues with every client we support, every family we partner with, and every moment of trust we are honored to earn."
+        ]
+      }
+    ]
+  },
+  "values": {
+    "title": "Our Core Values",
+    "subtitle": "These principles guide everything we do and shape the way we care for our clients and their families.",
+    "valuesList": [
+      {
+        "icon": "❤️",
+        "title": "Compassionate Care",
+        "description": "We believe every person deserves home care services that honor their dignity, respect their choices, and nurture their wellbeing with genuine compassion."
+      },
+      {
+        "icon": "🤝",
+        "title": "Trust & Reliability",
+        "description": "Building lasting relationships through consistent, dependable home care services that families can count on, day after day."
+      },
+      {
+        "icon": "🌟",
+        "title": "Professional Excellence",
+        "description": "We strive for the highest standards in everything we do, from caregiver training to care delivery, always seeking to exceed expectations."
+      },
+      {
+        "icon": "🏠",
+        "title": "Home-Centered Care",
+        "description": "We believe there's no place like home, and we're committed to helping people maintain their independence and comfort in familiar surroundings through our home care services in Denton, TX."
+      },
+      {
+        "icon": "👥",
+        "title": "Family Partnership",
+        "description": "We work closely with families, providing support, communication, and peace of mind throughout the care journey."
+      },
+      {
+        "icon": "🌈",
+        "title": "Inclusive Care",
+        "description": "We celebrate diversity and provide specialized home care services for all abilities, ensuring everyone receives the care and respect they deserve."
+      }
+    ]
+  },
+  "commitment": {
+    "title": "Our Commitment to Excellence in Home Care Services in Denton, TX",
+    "points": [
+      {
+        "title": "Licensed & Insured",
+        "description": "All our home care caregivers are thoroughly vetted, licensed, and insured for your peace of mind."
+      },
+      {
+        "title": "Ongoing Training",
+        "description": "We invest in continuous education to ensure our team stays current with home care best practices and regulations."
+      },
+      {
+        "title": "Flexible Support",
+        "description": "We're available during business hours and provide on-call support when needed for our home care clients."
+      },
+      {
+        "title": "Personalized Care",
+        "description": "Every care plan is tailored to meet the unique needs and preferences of each client."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start Your Home Care Journey?",
+    "description": "Let Averon Healthcare LLC help you or your loved one maintain independence and dignity at home in Denton, TX. Contact us today for a free consultation and discover how our home care services can support your family.",
+    "buttons": {
+      "primary": "Schedule Consultation",
+      "secondary": "Contact Us"
+    }
+  }
+}

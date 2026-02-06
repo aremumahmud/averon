@@ -1,0 +1,133 @@
+{
+  "images": {
+    "serviceImages": {
+      "personal-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647571/pexels-kampus-7477691_fbuzpo.jpg",
+      "companion-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg",
+      "respite-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647660/pexels-jsme-mila-523821574-29372742_btuql4.jpg",
+      "in-facility-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648020/pexels-mike-jones-8805864_tpce8a.jpg",
+      "specialized-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648078/pexels-kampus-7551646_mznizh.jpg",
+      "end-of-life-care": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757648473/pexels-liliana-drew-9462344_crre4v.jpg"
+    }
+  },
+  "hero": {
+    "badge": "Our Services",
+    "title": "Dedicated to providing exceptional",
+    "titleHighlight": "home care",
+    "description": "At Averon Healthcare LLC, we provide a full range of personalized in-home care services designed to support daily living, safety, and comfort. Our caregivers deliver dependable, compassionate assistance in the comfort of your home, with a focus on respect, professionalism, and meeting each client's individual needs.",
+    "stats": [
+      { "number": "6", "label": "Core Services" },
+      { "number": "98%", "label": "Client Satisfaction" },
+      { "number": "100%", "label": "Licensed & Insured" }
+    ]
+  },
+  "servicesIntro": {
+    "title": "Services We Provide",
+    "description": "Averon Healthcare LLC provides a variety of home care services tailored to the unique needs of seniors and individuals who need support. Explore more about our services below:"
+  },
+  "servicesList": [
+    {
+      "id": "personal-care",
+      "title": "Personal Care Services",
+      "tagline": "Respectful Assistance for Daily Living Needs",
+      "description": "Our Personal Care Services help seniors and individuals with disabilities maintain their independence while ensuring proper hygiene and safety.",
+      "services": [
+        "Assistance with bathing, dressing, and grooming.",
+        "Support with mobility and transfers, such as getting in and out of bed or chairs.",
+        "Help with toileting and incontinence care.",
+        "Medication reminders."
+      ],
+      "summary": "Whether your loved one requires short-term assistance or continuous care, our compassionate and skilled caregivers are here to help."
+    },
+    {
+      "id": "companion-care",
+      "title": "Companion Care",
+      "tagline": "Fostering Connections and Preventing Loneliness",
+      "description": "Social isolation can impact overall well-being. Our Companion Care Services provide emotional support and assistance with daily activities to help your loved one stay engaged and fulfilled.",
+      "services": [
+        "Friendly conversation and social interaction.",
+        "Meal preparation and light housekeeping.",
+        "Help with errands, grocery shopping, and attending appointments.",
+        "Recreational activities such as games, crafts, and walks."
+      ],
+      "summary": "Our goal is to enhance your loved one's quality of life through companionship and meaningful interactions."
+    },
+    {
+      "id": "respite-care",
+      "title": "Respite Care",
+      "tagline": "Relief and Support for Family Caregivers",
+      "description": "Providing care for a loved one is rewarding, but it can also be overwhelming. Our Respite Care Services allow family caregivers to take a well-deserved break while ensuring their loved one is in good hands.",
+      "services": [
+        "Flexible care scheduling to suit your needs.",
+        "Trusted and experienced caregivers to provide support while you're away.",
+        "Reassurance that your loved one remains safe and well-cared for."
+      ],
+      "summary": "Whether you need a few hours of assistance, a full day, or extended care, we're here to help."
+    },
+    {
+      "id": "in-facility-care",
+      "title": "In-Facility Care",
+      "tagline": "Additional Support for Residents in Care Facilities",
+      "description": "Sometimes, individuals in assisted living or skilled nursing facilities need more personalized attention than staff can provide. Our In-Facility Care Services ensure that your loved one receives the extra support they need.",
+      "services": [
+        "One-on-one companionship and advocacy.",
+        "Help with eating, grooming, and personal care.",
+        "Monitoring to ensure safety and comfort."
+      ],
+      "summary": "We work closely with facility staff to provide seamless and comprehensive care."
+    },
+    {
+      "id": "specialized-care",
+      "title": "Specialized Care",
+      "tagline": "Tailored Support for Chronic and Cognitive Conditions",
+      "description": "Our caregivers are trained to deliver specialized care for individuals with unique health challenges.",
+      "services": [
+        "Alzheimer's & Dementia Care – Providing a secure and comforting environment while assisting with memory-related difficulties.",
+        "Parkinson's Disease Support – Helping with mobility and daily activities.",
+        "Post-Surgery & Chronic Illness Care – Aiding in recovery and managing long-term health conditions."
+      ],
+      "summary": "Each care plan is customized to meet the specific needs of your loved one, ensuring they receive dignified and compassionate support."
+    },
+    {
+      "id": "end-of-life-care",
+      "title": "End-of-Life Care",
+      "tagline": "Providing Comfort and Compassion in Life's Final Stages",
+      "description": "During the most challenging times, our End-of-Life Care Services offer physical, emotional, and spiritual support for individuals and their families.",
+      "services": [
+        "Pain relief and comfort-focused care.",
+        "Emotional support for both clients and their loved ones.",
+        "Assistance with daily tasks to reduce stress."
+      ],
+      "summary": "Our priority is to bring peace, dignity, and comfort to those nearing the end of life."
+    }
+  ],
+  "serviceDetails": {
+    "whatWeProvide": "What We Provide",
+    "keyBenefits": "Key Benefits",
+    "ctaTitle": "Ready to learn more about our services?",
+    "ctaDescription": "Contact us today at 800-385-5157 or john.ovuera@averon.care to schedule your free in-home care consultation. Let us create a personalized care plan for your loved one!",
+    "ctaButton": "Get Started Today"
+  },
+  "contact": {
+    "title": "Get a personalized care plan for you or your loved one!",
+    "contactInfo": [
+      {
+        "icon": "📞",
+        "title": "Call Us",
+        "details": "800-385-5157",
+        "subtitle": "8 AM to 5 PM, Monday to Friday; 9 AM to 5 PM Saturday & closed on Sunday"
+      },
+      {
+        "icon": "📧",
+        "title": "Email Us",
+        "details": "john.ovuera@averon.care",
+        "subtitle": "We respond within 24 hours"
+      },
+      {
+        "icon": "📍",
+        "title": "Service Area",
+        "details": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County",
+        "subtitle": "Serving families with excellence across Denton County."
+      }
+    ]
+  }
+}

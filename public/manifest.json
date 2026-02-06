@@ -1,0 +1,38 @@
+{
+  "name": "Averon Healthcare LLC",
+  "short_name": "Averon Healthcare",
+  "description": "Professional home care services in Denton County including Little Elm, Denton, Aubrey, Celina, Prosper, and Frisco. Compassionate personal care, companion care, respite care, specialized care, and end-of-life care for seniors and individuals with disabilities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8e211b",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["health", "medical", "business"],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/df3anqibv/image/upload/v1770399921/Averon_Logo-removebg-preview_pibaxb.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://res.cloudinary.com/df3anqibv/image/upload/v1770399921/Averon_Logo-removebg-preview_pibaxb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://res.cloudinary.com/df3anqibv/image/upload/v1770399921/Averon_Logo-removebg-preview_pibaxb.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
