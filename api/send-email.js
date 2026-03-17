@@ -5,7 +5,7 @@ const BREVO_API_URL = 'https://api.brevo.com/v3/smtp/email';
 const BREVO_API_KEY = process.env.BREVO_API_KEY;
 const Admin_Email = process.env.ADMIN_EMAIL;
 const Admin_Name = process.env.ADMIN_NAME;
-const Admin_Phone = process.env.ADMIN_PHONE || '800 385 5157'; // Default fallback
+const Admin_Phone = process.env.ADMIN_PHONE || '(888) 674 7922'; // Default fallback
 const Appl_To = process.env.APPL_ADMIN_TO || process.env.ADMIN_EMAIL
 // Format phone for tel: links (remove spaces, parentheses, but keep +)
 const Admin_Phone_Tel = Admin_Phone.replace(/[\s()-]/g, '');

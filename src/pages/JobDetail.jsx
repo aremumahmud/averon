@@ -194,8 +194,8 @@ function JobDetail() {
                                 john.ovuera@averon.care
                             </a>{' '}
                             or call{' '}
-                            <a href="tel:8003855157" className="phone-link">
-                                800-385-5157
+                            <a href="tel:8886747922" className="phone-link">
+                                (888)-674-7922
                             </a>
                         </p>
                     </div>
