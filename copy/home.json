@@ -1,6 +1,6 @@
 {
   "images": {
-    "logo":"https://res.cloudinary.com/df3anqibv/image/upload/v1770399921/Averon_Logo-removebg-preview_pibaxb.png",
+    "logo":"https://res.cloudinary.com/dvauarkh6/image/upload/v1774018827/logo_sample-removebg-preview_ehd6cg.png",
     "hero": {
       "rotatingImages": [
         "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg",
@@ -14,7 +14,8 @@
     "about": {
       "main": "https://res.cloudinary.com/dvauarkh6/image/upload/v1757651526/istockphoto-2197953344-612x612_aafwiv.jpg"
     },
-    "services": {
+    "services": { 
+      "verifiedIcon2": "✓",
       "serviceImages": [
         "https://res.cloudinary.com/dvauarkh6/image/upload/v1747917952/pexels-vlada-karpovich-5790702_1_jsorsb.jpg",
         "https://res.cloudinary.com/dvauarkh6/image/upload/v1757647571/pexels-kampus-7477691_fbuzpo.jpg",
