@@ -1,4 +1,4 @@
-# robots.txt for Averon Healthcare LLC
+# robots.txt for Averon Healthcare
 # Website: https://averon.care
 
 User-agent: *

@@ -24,7 +24,7 @@
     ],
     "successMessage": {
       "title": "Consultation Scheduled Successfully!",
-      "description": "Thank you for choosing Averon Healthcare LLC. We'll contact you within 24 hours to confirm your consultation appointment and discuss your care needs."
+      "description": "Thank you for choosing Averon Healthcare. We'll contact you within 24 hours to confirm your consultation appointment and discuss your care needs."
     },
     "step1": {
       "title": "Personal Information",

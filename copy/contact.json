@@ -8,7 +8,7 @@
     "badge": "Contact Us",
     "title": "Let's Start Your",
     "titleHighlight": "Home Care Journey",
-    "description": "Ready to provide the best home care services for you or your loved one? Contact Averon Healthcare LLC today for a free consultation. We're here to answer your questions and help you find the perfect home care solution.",
+    "description": "Ready to provide the best home care services for you or your loved one? Contact Averon Healthcare today for a free consultation. We're here to answer your questions and help you find the perfect home care solution.",
     "stats": [
       { "number": "98%", "label": "Client Satisfaction" },
       { "number": "Free", "label": "Initial Consultation" },
@@ -36,8 +36,8 @@
       {
         "icon": "📍",
         "title": "Service Area",
-        "details": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County",
-        "subtext": "Serving families across Denton County",
+        "details": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
+        "subtext": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
         "link": null
       },
       {

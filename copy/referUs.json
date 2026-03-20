@@ -19,7 +19,7 @@
     "badge": "Why Refer to Us?",
     "title": "Trusted Care That Makes a",
     "titleHighlight": "Difference",
-    "description": "When you refer someone to Averon Healthcare LLC, you're connecting them with a team that genuinely cares about their wellbeing and independence. Here's what makes our referral program special:",
+    "description": "When you refer someone to Averon Healthcare, you're connecting them with a team that genuinely cares about their wellbeing and independence. Here's what makes our referral program special:",
     "benefits": [
       {
         "icon": "🎁",
@@ -147,7 +147,7 @@
       ]
     },
     "terms": {
-      "checkboxText": "I confirm that I have permission to refer this client and understand that Averon Healthcare LLC will contact them to discuss their care needs. I agree to the privacy policy and terms of service.",
+      "checkboxText": "I confirm that I have permission to refer this client and understand that Averon Healthcare will contact them to discuss their care needs. I agree to the privacy policy and terms of service.",
       "privacyNote": "Your referral information is kept strictly confidential. We will only contact the referred client to discuss their care needs and will never share their information with unauthorized parties."
     },
     "submitButton": "Submit Referral",

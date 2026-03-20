@@ -62,7 +62,7 @@
   },
   "header": {
     "logo": {
-      "alt": "Averon Healthcare LLC - Professional Home Care in Denton County"
+      "alt": "Averon Healthcare - Professional Home Care in North Dallas"
     },
     "navigation": {
       "about": "About",
@@ -92,22 +92,22 @@
   "hero": {
     "badge": "Free Care Assessment",
     "mainHeading": "We provide care with heart, respect, and consistency.",
-    "mainDescription": "With Averon Healthcare LLC, families receive thoughtful, dependable care at home.",
-    "teamStats": "Serving Denton County",
+    "mainDescription": "With Averon Healthcare, families receive thoughtful, dependable care at home.",
+    "teamStats": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
     "ctaButton": "Get Started Today",
     "imageOverlay": {
       "badges": {
         "personalCare": "PERSONAL CARE",
         "homeHealthCare": "HOME HEALTH CARE",
-        "houstonTX": "DENTON COUNTY"
+        "houstonTX": "NORTH DALLAS"
       }
     },
     "rotatingContent": [
       {
-        "heading": "Serving Denton County",
-        "description": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco.",
+        "heading": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
+        "description": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
         "popularHeading": "Service Area",
-        "popularDescription": "Trusted care throughout Denton County."
+        "popularDescription": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina."
       },
       {
         "heading": "Trusted Caregivers.",
@@ -148,10 +148,10 @@
     }
   },
   "about": {
-    "badge": "About Averon Healthcare LLC",
+    "badge": "About Averon Healthcare",
     "title": "Caring From the Heart,",
     "titleHighlight": "Right at Home",
-    "description": "Exceptional care isn't loud—it's consistent. At Averon Healthcare LLC, we deliver refined, dependable in-home care with heart, respect, and intention. Every detail is handled with care so families can feel confident and at ease. Proudly serving Denton County, including Little Elm, Denton, Aubrey, Celina, Prosper, and Frisco, we help clients remain comfortable, independent, and supported—right where they belong.",
+    "description": "Exceptional care isn't loud—it's consistent. At Averon Healthcare, we deliver refined, dependable in-home care with heart, respect, and intention. Every detail is handled with care so families can feel confident and at ease. Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina. We help clients remain comfortable, independent, and supported—right where they belong.",
     "imageOverlay": {
       "yearsExperience": "3+",
       "yearsLabel": "Years of Experience"
@@ -161,7 +161,7 @@
     "badge": "Our Home Care Services",
     "title": "Comprehensive Care Services",
     "titleHighlight": "Tailored to Your Needs",
-    "subtitle": "At Averon Healthcare LLC, we provide dependable, compassionate home care designed around each client's individual needs. Our personalized approach supports comfort, safety, and independence in the place clients know best—home. With experienced caregivers focused on quality and respect, we build trusted relationships that give families confidence and peace of mind every day.",
+    "subtitle": "At Averon Healthcare, we provide dependable, compassionate home care designed around each client's individual needs. Our personalized approach supports comfort, safety, and independence in the place clients know best—home. With experienced caregivers focused on quality and respect, we build trusted relationships that give families confidence and peace of mind every day.",
     "serviceCards": [
       {
         "title": "Personal Care Services",
@@ -226,7 +226,7 @@
     }
   },
   "trust": {
-    "title": "Why Dallas Families Trust <br> Averon Healthcare LLC",
+    "title": "Why Dallas Families Trust <br> Averon Healthcare",
     "trustPoints": [
       {
         "title": "Certified Home Care Professionals",
@@ -240,7 +240,7 @@
       },
       {
         "title": "Local Service Excellence",
-        "description": "Dedicated to serving Denton, TX with reliable, consistent home care services.",
+        "description": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
         "icon": "◐"
       },
       {
@@ -253,13 +253,13 @@
   "testimonials": {
     "badge": "Client Testimonials",
     "title": "What Families Say",
-    "subtitle": "Read stories from families who have experienced the Averon Healthcare LLC difference.",
+    "subtitle": "Read stories from families who have experienced the Averon Healthcare difference.",
     "clientFeedbackLabel": "Client Feedback",
     "testimonials": [
       {
         "feedback": "Averon Healthcare has been incredible with my mom who has dementia. The caregiver is patient, calm, and knows how to redirect her when she's confused. It's made a huge difference for our family.",
         "name": "Maria L.",
-        "location": "Little Elm, TX"
+        "location": "Plano, TX"
       },
       {
         "feedback": "After my dad's stroke, we needed reliable help at home. Averon provided consistent care and support that helped him feel safe and regain confidence with daily routines.",
@@ -301,7 +301,7 @@
     "title": "Share the Gift of",
     "titleHighlight": "Professional Home Care Services",
     "description": "Know someone who could benefit from our home care services? Your referral helps us extend our compassionate care to more families in need.",
-    "reasonsTitle": "Why Refer to Averon Healthcare LLC?",
+    "reasonsTitle": "Why Refer to Averon Healthcare?",
     "reasons": [
       {
         "title": "Certified Home Care Services",
@@ -319,7 +319,7 @@
     "ctaButton": "Refer Someone Today",
     "imageOverlay": {
       "mainText": "Making a difference",
-      "subText": "in families' lives across Denton County"
+      "subText": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina."
     }
   },
   "blog": {
@@ -376,7 +376,7 @@
   "contact": {
     "badge": "Contact Us",
     "title": "Get in Touch",
-    "subtitle": "Ready to learn more about our home care services? Contact Averon Healthcare LLC today for a free consultation.",
+    "subtitle": "Ready to learn more about our home care services? Contact Averon Healthcare today for a free consultation.",
     "infoTitle": "Contact Information",
     "contactInfo": [
       {
@@ -394,8 +394,8 @@
       {
         "icon": "📍",
         "title": "Service Area",
-        "details": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County",
-        "subtext": "Serving families across Denton County"
+        "details": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
+        "subtext": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina."
       }
     ],
     "form": {
@@ -424,7 +424,7 @@
   "newsletter": {
     "badge": "Stay Connected",
     "title": "Subscribe to Our Newsletter",
-    "subtitle": "Stay updated with the latest home care tips, health information, and news from Averon Healthcare LLC.",
+    "subtitle": "Stay updated with the latest home care tips, health information, and news from Averon Healthcare.",
     "formTitle": "Join Our Newsletter",
     "formSubtitle": "Get valuable home care tips, health insights, and updates delivered to your inbox.",
     "emailPlaceholder": "Enter your email address",
@@ -438,16 +438,16 @@
     "subtitle": "Find answers to common questions about our home care services and how we can help your family.",
     "questions": [
       {
-        "question": "What home care services does Averon Healthcare LLC provide?",
+        "question": "What home care services does Averon Healthcare provide?",
         "answer": "We offer comprehensive home care services including Personal Care Services, Companion Care, Respite Care, In-Facility Care, Specialized Care (Alzheimer's & Dementia, Parkinson's, Post-Surgery), and End-of-Life Care. All services are provided by certified, background-checked caregivers."
       },
       {
         "question": "What areas do you serve?",
-        "answer": "We proudly serve Little Elm, Denton, Aubrey, Celina, Prosper, Frisco in Denton County, TX. Our goal is to bring professional home care services directly to your doorstep throughout Denton County."
+        "answer": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina. Our goal is to bring professional home care services directly to your doorstep throughout North Dallas."
       },
       {
         "question": "Are your caregivers licensed and insured?",
-        "answer": "Yes, all our caregivers are certified in home care services, thoroughly background-checked, and bonded. Averon Healthcare LLC is fully licensed and insured to provide peace of mind for you and your family."
+        "answer": "Yes, all our caregivers are certified in home care services, thoroughly background-checked, and bonded. Averon Healthcare is fully licensed and insured to provide peace of mind for you and your family."
       },
       {
         "question": "How do you create personalized care plans?",
@@ -477,8 +477,8 @@
     }
   },
   "footer": {
-    "companyName": "Averon Healthcare LLC",
-    "companyDescription": "Providing reliable care for your peace of mind in Denton County. Bringing compassionate caregivers to your doorstep with dignity, respect, and genuine human connection.",
+    "companyName": "Averon Healthcare",
+    "companyDescription": "Providing reliable care for your peace of mind across the communities we serve. Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina. Bringing compassionate caregivers to your doorstep with dignity, respect, and genuine human connection.",
     "badges": [
       "Licensed & Insured",
       "Certified Caregivers",
@@ -517,7 +517,7 @@
       },
       "contactInfo": {
         "title": "Contact Information",
-        "serviceArea": "Little Elm, Denton, Aubrey, Celina, Prosper, Frisco. Denton County",
+        "serviceArea": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina.",
         "address": "",
         "phone": "(888)-674-7922",
         "email": "john.ovuera@averon.care"
@@ -539,12 +539,12 @@
       }
     },
     "newsletter": {
-      "title": "Stay Connected with Averon Healthcare LLC",
+      "title": "Stay Connected with Averon Healthcare",
       "description": "Get home care tips, updates, and news delivered to your inbox.",
       "emailPlaceholder": "Enter your email address",
       "subscribeButton": "Subscribe"
     },
-    "copyright": "© 2024 Averon Healthcare LLC. All rights reserved.",
-    "tagline": "Serving Denton County. Experts in providing compassionate in-home care. Offering services like personal care, companion care, respite care, and specialized memory care."
+    "copyright": "© 2024 Averon Healthcare. All rights reserved.",
+    "tagline": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina. Experts in providing compassionate in-home care. Offering services like personal care, companion care, respite care, and specialized memory care."
   }
 }

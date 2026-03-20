@@ -13,10 +13,10 @@
     }
   },
   "hero": {
-    "badge": "About Averon Healthcare LLC",
+    "badge": "About Averon Healthcare",
     "title": "Care That's Personal.",
     "titleHighlight": "Support That's Reliable",
-    "description": "Averon Healthcare LLC provides dependable, compassionate home care designed to support comfort, dignity, and independence. We partner with individuals and families to deliver personalized care that adapts to changing needs and daily routines. Our approach is centered on consistency, respect, and trust—ensuring clients feel supported, safe, and valued in the place they call home. Whether assisting with daily activities, recovery, or ongoing care needs, Averon Healthcare is committed to making home care feel seamless and reassuring.",
+    "description": "Averon Healthcare provides dependable, compassionate home care designed to support comfort, dignity, and independence. We partner with individuals and families to deliver personalized care that adapts to changing needs and daily routines. Our approach is centered on consistency, respect, and trust—ensuring clients feel supported, safe, and valued in the place they call home. Whether assisting with daily activities, recovery, or ongoing care needs, Averon Healthcare is committed to making home care feel seamless and reassuring.",
     "stats": [
       { "number": "300+", "label": "Families Served" },
       { "number": "3+", "label": "Years of Experience" },
@@ -33,7 +33,7 @@
     "title": "Our Story",
     "sections": [
       {
-        "heading": "Averon Healthcare LLC was created with a simple belief:",
+        "heading": "Averon Healthcare was created with a simple belief:",
         "points": [
           "Quality home care should feel personal, dependable, and respectful.",
           "We saw the need for care that goes beyond tasks—care built on consistency, trust, and genuine connection.",
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "heading": "Rooted in Denton County, Averon Healthcare LLC is proud to serve our local communities:",
+        "heading": "Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina. Averon Healthcare is proud to serve our local communities:",
         "points": [
           "With integrity, compassion, and professionalism.",
           "Our team is driven by a genuine commitment to making daily life safer, easier, and more comfortable for those we care for.",
@@ -73,7 +73,7 @@
       {
         "icon": "🏠",
         "title": "Home-Centered Care",
-        "description": "We believe there's no place like home, and we're committed to helping people maintain their independence and comfort in familiar surroundings through our home care services in Denton, TX."
+        "description": "We believe there's no place like home, and we're committed to helping people maintain their independence and comfort in familiar surroundings through our home care services. Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina."
       },
       {
         "icon": "👥",
@@ -88,7 +88,7 @@
     ]
   },
   "commitment": {
-    "title": "Our Commitment to Excellence in Home Care Services in Denton, TX",
+    "title": "Our Commitment to Excellence in Home Care Services in North Dallas",
     "points": [
       {
         "title": "Licensed & Insured",
@@ -110,7 +110,7 @@
   },
   "cta": {
     "title": "Ready to Start Your Home Care Journey?",
-    "description": "Let Averon Healthcare LLC help you or your loved one maintain independence and dignity at home in Denton, TX. Contact us today for a free consultation and discover how our home care services can support your family.",
+    "description": "Let Averon Healthcare help you or your loved one maintain independence and dignity at home. Serving North Dallas and surrounding areas including Plano, Frisco, McKinney, Allen, Prosper, Denton, Aubrey and Celina. Contact us today for a free consultation and discover how our home care services can support your family.",
     "buttons": {
       "primary": "Schedule Consultation",
       "secondary": "Contact Us"
